@@ -106,7 +106,8 @@
     | **최시훈** | 인공적으로 만들어진 심장, 골수, 안구 등을 이식하는 비용이 절감되어 전세계적으로 보급 | 
 
     ⓑ 미래의 모습을 그림으로 표현
-    ![Uploading image.png…]()
+    <img width="2245" height="3179" alt="KakaoTalk_20251030_205435424" src="https://github.com/user-attachments/assets/225586cf-90d4-47e5-be44-57ad83d38448" />
+
 
 
 
