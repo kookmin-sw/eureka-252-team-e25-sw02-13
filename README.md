@@ -1,6 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/meKNgBF9)
-<img width="2245" height="3179" alt="KakaoTalk_20251030_205435424" src="https://github.com/user-attachments/assets/225586cf-90d4-47e5-be44-57ad83d38448" />
+
 # Welcome to 13팀
+<img width="2245" height="3179" alt="KakaoTalk_20251030_205435424" src="https://github.com/user-attachments/assets/225586cf-90d4-47e5-be44-57ad83d38448" />
 
 ## 1️⃣ 팀원 소개
 
