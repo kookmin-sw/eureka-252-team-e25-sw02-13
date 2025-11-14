@@ -1,7 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/meKNgBF9)
 
 # Welcome to 13팀
-<img width="2245" height="3179" alt="KakaoTalk_20251030_205435424" src="https://github.com/user-attachments/assets/225586cf-90d4-47e5-be44-57ad83d38448" />
 
 ## 1️⃣ 팀원 소개
 
@@ -110,7 +109,19 @@
     ⓑ 미래의 모습을 그림으로 표현
     <img width="2245" height="3179" alt="KakaoTalk_20251030_205435424" src="https://github.com/user-attachments/assets/225586cf-90d4-47e5-be44-57ad83d38448" />
 
+  - 대학원생과의 면담
 
+    ① 국민대 추천할만한 프로그램 3가지? Great, Global PBL, job fair(in career week)
+    
+    ② 학석 단축의 장단점? 학부생 기간에 석사생이 하는 연구를 학부 생활과 병행해야 해서 힘듦, 하지만 석사를 따는데의 기간이 1년이 줄어드는 메리트가 있음
+
+    ③ UROP? 학부생이 수업을 듣고 학점을 얻어가듯이 대학원 석사 연구를 같이 하고 학점을 얻어가는 수업임. 수강신청으로 신청 가능
+
+    ④ 대학원생(석사 과정생)의 구체적인 업무? 크게 2가지 업무가 있는데 첫 번째로 본인의 연구 주제를 연구(논문 등 읽어가며), 두 번째로 대학원 전체에 주어지는 업무(마치 회사의 일과 같은)
+
+    ⑤ 자대학 대학원과 타대학 대학원? 자대학 대학원은 약 600만원의 대학원 등록금을 장학금으로 커버 가능. 또한 타대학 대학원에 비해 학점이나 면접을 꼼꼼히 보지 않음, 타대학 대학원은 사람을 잘 안뽑을 수 있으며 일찍부         터 컨택해서 인턴을 해야 들어가기 수월할 것임 
+
+      ![KakaoTalk_20251114_133817276](https://github.com/user-attachments/assets/7bb7d70e-30b6-4355-bb40-7ad89b78899e)
 
 
   - 우리가 그리는 미래 그리고 나
